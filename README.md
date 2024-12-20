@@ -2,6 +2,6 @@
 
 cmake to build
 
-Load - copys a file to the window
+Load - copies a file to the window
 
 Process - highlights number and emails
